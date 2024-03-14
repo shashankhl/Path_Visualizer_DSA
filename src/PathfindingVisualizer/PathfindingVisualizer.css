@@ -1,0 +1,30 @@
+.grid {
+  margin: 20px 0 0;
+}
+
+.algorithm-button,
+.reset-button {
+  background-color: #4c77af;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.algorithm-button:hover,
+.reset-button:hover {
+  background-color: #4556a0;
+}
+
+span {
+  font-family: Arial, sans-serif;
+}
